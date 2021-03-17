@@ -19,4 +19,4 @@
 * [Conway's Game of Life implemented in Processing](https://github.com/itchono/Conway-GOL)
 * [A rudimentary drawing tool](http://mingde.tk/altair/)
 
-Disclaimer: I am an engineer first and foremost, so a lot of the code you see here will not be of the typical CS-student flavour. (My frontend knowledge is basically nil so most of the stuff I make ends up looking pretty ugly)
+**Disclaimer**: I am an engineer first and foremost, so a lot of the code you see here will not be of the typical CS-student flavour (i.e. good). My frontend knowledge is basically nil so most of the stuff I make ends up looking pretty ugly.
