@@ -5,6 +5,7 @@
 * [Orbital simulations for my school's microsatellite design team](https://github.com/spacesys-finch/Orbit) 📡
 * [A quiz bot for Discord to help make you smarter](https://github.com/micropipette/studybot) 🧠
 * [An NP-hard quantum cryptography problem involving entanglement of bipartite systems](https://github.com/itchono/schrodingerscatornot)🎲
+* [A Dazzling Kaleidoscope!](https://github.com/mgwg/kaleidoscope)🔭
 
 
 ### 🌱 I’m currently learning...
