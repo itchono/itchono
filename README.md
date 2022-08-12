@@ -2,7 +2,9 @@
 
 I am currently working at [SpaceRyde](https://www.spaceryde.com/) as a rocket avionics intern. My key interests are in aerospace vehicles dynamics and control, trajectory planning and optimization, and orbital spacecraft. My background is in numerical methods and modelling, simulation and control systems.
 
-I just finished my 3rd year of Aerospace Engineering at the University of Toronto.
+I just finished my 3rd year of Aerospace Engineering at the University of Toronto. My educational background is in aerodynamics, gasdynamics, numerical methods, optimization, and control systems.
+
+I am a subsystem lead at the [University of Toronto Aerospace Team Space Systems division](https://www.utat.ca/space-systems) working on trajectory analysis and mission planning for a 3U imaging cubesat mission.
 
 ### 🔭 I’m currently working on...
 * [A multipurpose Discord bot for use on my own Discord server](https://github.com/itchono/Comrade) 🏠
