@@ -8,7 +8,7 @@ I am a subsystem lead at the [University of Toronto Aerospace Team Space Systems
 
 ### 🔭 I’m currently working on...
 * [A multipurpose Discord bot for use on my own Discord server](https://github.com/itchono/Comrade) 🏠
-* [Orbital simulations for my school's microsatellite design team](https://github.com/spacesys-finch/supernova) 📡
+* [Orbital simulations for my school's microsatellite design team](https://github.com/spacesys-finch/hypernova) 📡
 * [A quiz bot for Discord to help make you smarter](https://github.com/micropipette/studybot) 🧠
 
 ### 🌱 I’m currently learning...
