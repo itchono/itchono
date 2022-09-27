@@ -7,6 +7,7 @@ I just finished my 3rd year of Aerospace Engineering at the University of Toront
 I am a subsystem lead at the [University of Toronto Aerospace Team Space Systems division](https://www.utat.ca/space-systems) working on trajectory analysis and mission planning for a 3U imaging cubesat mission.
 
 ### 🔭 I’m currently working on...
+* [An interplanetry mission trajectory optimizer using multi-flyby gravity assists](https://github.com/itchono/gravity-assist-flyby-optimizer) 🚀
 * [A multipurpose Discord bot for use on my own Discord server](https://github.com/itchono/Comrade) 🏠
 * [Orbital simulations for my school's microsatellite design team](https://github.com/spacesys-finch/hypernova) 📡
 * [A quiz bot for Discord to help make you smarter](https://github.com/micropipette/studybot) 🧠
