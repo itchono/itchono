@@ -16,7 +16,7 @@ I am a subsystem lead at the [University of Toronto Aerospace Team Space Systems
 * Using C and C++ extensions to accelerate my Python code 💨
 * Spacecraft dynamics and orbital mechanics 🌎
 * Higher performance numerical methods for dynamic systems 🌌
-* Rocket nevigation, state estimation, guidance, and control 🚀
+* Navigation, state estimation, guidance, and control for aerospace vehicles 🚀
 
 ### 😎 Cool things I have previously worked on...
 * [Optimal pathfinding algorithms for Snake](https://github.com/itchono/ESC190-snek)
