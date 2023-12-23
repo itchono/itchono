@@ -1,15 +1,13 @@
 ### Hi, I'm Mingde 👋
 
-I am currently working at [MDA](https://mda.space/en/) as a Guidance, Navigation, and Controls intern. I previously worked at [SpaceRyde](https://www.spaceryde.com/) as a rocket avionics intern. My key interests are in **aerospace vehicles dynamics and control, trajectory planning and optimization, and orbital spacecraft**. My background is in numerical methods and modelling, simulation and control systems.
+I am currently a 4th year undergraduate aerospace engineering student at the University of Toronto. I have previously worked at [MDA](https://mda.space/en/) on Canadarm2, and at [SpaceRyde](https://www.spaceryde.com/) on a Canadian-developed smallsat launch vehicle. My key interests are in **aerospace vehicle dynamics and control, trajectory planning and optimization, and orbital spacecraft**. My educational background is in astrodynamics, control systems, numerical methods, and optimization.
 
-I am entering my 4th year of Aerospace Engineering at the University of Toronto. My educational background is in aerodynamics, gasdynamics, numerical methods, optimization, and control systems.
-
-I am a subsystem lead at the [University of Toronto Aerospace Team Space Systems division](https://www.utat.ca/space-systems) working on trajectory analysis and mission planning for a 3U imaging cubesat mission.
+I am a former subsystem lead at the [University of Toronto Aerospace Team Space Systems division](https://www.utat.ca/space-systems) having worked on trajectory analysis and mission planning for a 3U imaging cubesat mission. My former team has just successfully launched their first mission into orbit in October 2023!
 
 ### 🔭 I’m currently working on...
 * [An interplanetry mission trajectory optimizer using multi-flyby gravity assists](https://github.com/itchono/trajectorize) 🚀
 * [A multipurpose Discord bot for use on my own Discord server](https://github.com/itchono/comrade-next) 🏠
-* [A solar sail spacecraft simulator for my 4th year thesis](https://github.com/itchono/star-sailor) ☀
+* [A solar sail spacecraft simulator for my 4th year thesis](https://github.com/itchono/star-sailor) ☀ [(Working on a faster re-implementation in C)](https://github.com/itchono/cshanty)
 
 ### 🌱 I’m currently learning...
 * Spacecraft dynamics and orbital mechanics 🌎
