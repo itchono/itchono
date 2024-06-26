@@ -4,6 +4,10 @@ I am an incoming MASc student at the University of Toronto Institute for Aerospa
 
 I am a former subsystem lead at the [University of Toronto Aerospace Team Space Systems division](https://www.utat.ca/space-systems) having worked on trajectory analysis and mission planning for a 3U imaging cubesat mission. My former team has just successfully launched their first mission into orbit in October 2023!
 
+
+
+[**Read my undergraduate thesis!**](https://github.com/user-attachments/files/15996544/Mingde_Yin_Thesis.pdf)
+
 ### 🔭 I’m currently working on...
 * [An interplanetry mission trajectory optimizer using multi-flyby gravity assists](https://github.com/itchono/trajectorize) 🚀
 * [A multipurpose Discord bot for use on my own Discord server](https://github.com/itchono/comrade-next) 🏠
