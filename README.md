@@ -1,6 +1,6 @@
 ### Hi, I'm Mingde 👋
 
-I am an incoming MASc student at the University of Toronto Institute for Aerospace Studies, having completed my undergraduate studies in Aerospace Engineering at U of T as well. I have previously worked at [MDA](https://mda.space/en/) on Canadarm2, and at [SpaceRyde](https://www.spaceryde.com/) on a Canadian-developed smallsat launch vehicle. My key interests are in **aerospace vehicle dynamics and control, trajectory planning and optimization, and orbital spacecraft**. My educational background is in astrodynamics, control systems, numerical methods, and optimization.
+I am a MASc student at the University of Toronto Institute for Aerospace Studies, having completed my undergraduate studies in Aerospace Engineering at U of T. I have previously worked at [MDA Space](https://mda.space/en/) on Canadarm2, and at [SpaceRyde](https://www.spaceryde.com/) on a Canadian-developed smallsat launch vehicle. My key interests are in **spacecraft trajectory planning and optimization**. My educational background is in astrodynamics, control systems, numerical methods, and optimization.
 
 I am a former subsystem lead at the [University of Toronto Aerospace Team Space Systems division](https://www.utat.ca/space-systems) having worked on trajectory analysis and mission planning for a 3U imaging cubesat mission. My former team has just successfully launched their first mission into orbit in October 2023!
 
